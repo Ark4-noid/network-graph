@@ -1,0 +1,2947 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "docencia, formacion de pregrado y postgrado",
+            "type": "parent",
+            "tema": [
+                "formacion integral y educacion continua",
+                "interdisciplinariedad en la docencia",
+                "desarrollo de competencias transversales",
+                "fortalecimiento del sello en la formacion - humanismo cristiano",
+                "educacion continua",
+                "espacios fisicos y equipamiento"
+            ],
+            "textotema": [
+                "enfocarse en el desarrollo de competencias...educacion no se limita a la etapa universitaria...",
+                "fomentar la colaboracion interdisciplinaria... explorar conexiones entre areas diversas.",
+                "desarrollo de competencias... habilidades de comunicacion, pensamiento critico, resolucion de problemas",
+                "fortalecer sello en la formacion... cursos y talleres que promuevan valores eticos y humanisticos... fomentar el servicio comunitario y la responsabilidad social.",
+                "la universidad se compromete a diversificar sus fuentes de ingreso a traves de la expansion de la educacion continua...",
+                "la mejora de los espacios fisicos es esencial para facilitar el aprendizaje, la investigacion y la colaboracion..."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "formacion integral",
+            "type": "child"
+        },
+        {
+            "id": 3,
+            "name": "educacion continua",
+            "type": "child"
+        },
+        {
+            "id": 4,
+            "name": "transformacion digital",
+            "type": "parent",
+            "tema": [
+                "modernizacion y eficiencia",
+                "automatizacion y accesibilidad",
+                "infraestructura tecnologica",
+                "eficiencia en los procesos",
+                "gobernanza de datos",
+                "estrategia y posicionamiento tecnologico",
+                "cultura y capacitacion tecnologica",
+                "infraestructura tecnologica",
+                "conectividad y acceso remoto",
+                "sistemas de informacion y gobernanza de datos",
+                "adaptabilidad y flexibilidad"
+            ],
+            "textotema": [
+                "adaptarse a un entorno en constante cambio... implementar tecnologias y practicas modernas... optimizacion de los procesos internos y mejora de la accesibilidad de los servicios.",
+                "automatizacion de procesos... mejorar y actualizar sistemas existentes... facilidad de acceso remoto, ejecucion de tramites en linea.",
+                "mejoramiento y actualizacion de infraestructura tecnologica... integracion, actualizacion y adaptabilidad de sistemas y tecnologias... soluciones basadas en la nube y la inteligencia artificial.",
+                "optimizacion de procesos tecnologicos... mejora de la comunicacion entre sistemas... eliminacion de cuellos de botella, simplificacion de procedimientos y automatizacion de tareas.",
+                "gobernanza de datos efectiva... calidad, precision y utilidad de la informacion... responsabilidades claras, estandares de calidad de datos y procesos de control de calidad.",
+                "posicionamiento estrategico de la tecnologia de informacion... enfoque unificado y estrategico... alinear tecnologia de informacion con objetivos y metas institucionales.",
+                "fomento de la capacitacion y desarrollo de habilidades tecnologicas... excelencia, innovacion y mejora continua en la adopcion y uso de nuevas tecnologias.",
+                "la universidad se compromete a desarrollar y mantener una infraestructura tecnologica robusta y actualizada...",
+                "la universidad buscara mejorar la conectividad dentro de los campus y facilitar el acceso remoto...",
+                "la implementacion de sistemas de informacion integrados sera prioritaria...",
+                "la infraestructura sera disenada con adaptabilidad y flexibilidad en mente..."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "investigacion, transferencia tecnologica y creacion artistica",
+            "type": "parent",
+            "tema": [
+                "participacion estudiantil en investigacion y desarrollo",
+                "promocion de la investigacion aplicada y practicas comunitarias",
+                "fomento de la interdisciplinariedad y asociatividad",
+                "produccion de conocimiento con pertinencia territorial",
+                "fomento de la transferencia tecnologica y impacto social",
+                "transferencia de conocimiento",
+                "colaboracion con la industria",
+                "investigacion y desarrollo"
+            ],
+            "textotema": [
+                "promover activamente la participacion... a los estudiantes contribuir de manera significativa...",
+                "investigacion aplicada y colaboracion con la comunidad... resolver problemas concretos...",
+                "fomentar la colaboracion entre diversas disciplinas... programas de doctorado interdisciplinarios...",
+                "orientar la investigacion hacia temas con un impacto directo en el territorio...",
+                "facilitacion de procesos de transferencia tecnologica... incubacion y aceleracion de empresas emergentes...",
+                "mejorar la efectividad y el impacto... conexion con el entorno productivo, civil y social.",
+                "la colaboracion con la industria es una estrategia clave para la diversificacion de fuentes de ingreso...",
+                "la universidad explorara nuevas fuentes de ingreso a traves de la investigacion y el desarrollo..."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "investigacion",
+            "type": "child"
+        },
+        {
+            "id": 7,
+            "name": "desarrollo",
+            "type": "child"
+        },
+        {
+            "id": 8,
+            "name": "participacion",
+            "type": "child"
+        },
+        {
+            "id": 9,
+            "name": "docencia",
+            "type": "child"
+        },
+        {
+            "id": 10,
+            "name": "inclusion y genero",
+            "type": "parent",
+            "tema": [
+                "perspectiva de genero e inclusion",
+                "integracion de una perspectiva inclusiva, de genero e intercultural",
+                "promocion de la igualdad de genero y diversidad",
+                "fomento de un ambiente de respeto y acogida hacia la diversidad de identidades culturales",
+                "adopcion de un enfoque interseccional",
+                "consolidacion de nuestra identidad catolica a traves de valores contemporaneos de justicia y diversidad"
+            ],
+            "textotema": [
+                "integrar la perspectiva de genero... formar agentes de cambio capaces...",
+                "integrar una perspectiva inclusiva, de genero e intercultural en el sello e identidad catolica... valores de justicia, igualdad y diversidad...",
+                "igualdad de genero y diversidad como componentes esenciales de la identidad... igualdad de oportunidades, no discriminacion...",
+                "crear un ambiente de respeto y acogida... promocion de actividades y programas que celebren y valoren las distintas culturas...",
+                "enfoque interseccional para comprender las multiples dimensiones de la experiencia humana... entrelazan y afectan la experiencia de cada individuo.",
+                "consolidar identidad catolica... valores contemporaneos de justicia y diversidad... compromiso activo hacia la igualdad de genero, inclusion..."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "genero",
+            "type": "child"
+        },
+        {
+            "id": 12,
+            "name": "inclusion",
+            "type": "child"
+        },
+        {
+            "id": 13,
+            "name": "diversidad",
+            "type": "child"
+        },
+        {
+            "id": 14,
+            "name": "comunidad universitaria",
+            "type": "parent",
+            "tema": [
+                "difusion y comunicacion de resultados",
+                "reforzar el bienestar estudiantil como area estrategica",
+                "fortalecimiento de convenios en el area de salud mental",
+                "mejorar la convivencia universitaria",
+                "fomento de actividades deportivas",
+                "fortalecer vinculos inter e intraestamentales",
+                "habilitacion de infraestructura cultural",
+                "promocion del bienestar y valoracion de las personas",
+                "evaluacion y desarrollo del personal",
+                "seguridad en campus",
+                "senaletica y orientacion en el campus"
+            ],
+            "textotema": [
+                "plataforma en linea para divulgar... eventos regulares de divulgacion, conferencias y simposios...",
+                "fortalecer la calidad de vida del estudiantado... aumento y mejora de los recursos humanos y materiales...",
+                "mejorar el acceso a servicios de salud mental... atencion integral y asequible...",
+                "promover un ambiente universitario saludable... respeto, empatia y colaboracion entre les estudiantes.",
+                "enriquecer la vida universitaria... fomento de las actividades deportivas... estilo de vida activo y saludable.",
+                "promover una comunicacion mas efectiva... dialogo y la colaboracion entre distintos estamentos universitarios...",
+                "infraestructura cultural... espacios dedicados a la musica, teatro, poesia... promover actividades que fomenten la creatividad y la expresion cultural.",
+                "promover el bienestar integral... programas y actividades que promuevan la salud mental y fisica, inclusion, diversidad y equidad.",
+                "desarrollo y evaluacion del personal... sistemas efectivos de evaluacion del desempeno y desarrollo de carrera... identificacion de brechas de habilidades y necesidades de capacitacion.",
+                "ademas de la seguridad de la infraestructura fisica y tecnologica, la universidad se compromete a garantizar la seguridad en los campus universitarios...",
+                "para mejorar la experiencia de docentes, estudiantado, funcionares y visitantes, se llevara a cabo un proyecto integral de senalizacion y orientacion en el campus..."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "vinculacion del medio - territorio",
+            "type": "parent",
+            "tema": [
+                "metodologias educativas vinculadas al territorio",
+                "conexion con sociedad civil, publicos, privados y entidades internacionales",
+                "co-construccion con la comunidad",
+                "capacidades institucionales al servicio del territorio",
+                "evaluacion y mejora continua",
+                "cultura y politica institucional",
+                "cooperacion y vinculacion",
+                "eventos y conferencias"
+            ],
+            "textotema": [
+                "incorporacion de metodologias educativas... contribuir al desarrollo local.",
+                "fortalecer los lazos de la universidad con diversos sectores... proyectos de investigacion internacionales.",
+                "fomentar la colaboracion y construccion conjunta... inclusion de la comunidad en procesos educativos...",
+                "utilizar las capacidades y recursos de la institucion... impacto positivo y sostenible en el territorio.",
+                "implementar evaluaciones cualitativas... analisis criticos y acciones de mejora continua.",
+                "revisiones y actualizaciones de documentos... gestion cultural mas activa y participativa.",
+                "colaboracion y vinculacion con diferentes actores y sectores... asociatividad y cooperacion con actores academicos, industria y comunidad... transferencia efectiva de conocimiento.",
+                "la organizacion de eventos y conferencias sera una fuente adicional de ingresos para la universidad..."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "metodologias",
+            "type": "child"
+        },
+        {
+            "id": 17,
+            "name": "territorio",
+            "type": "child"
+        },
+        {
+            "id": 18,
+            "name": "desarrollo local",
+            "type": "child"
+        },
+        {
+            "id": 19,
+            "name": "gestion institucional",
+            "type": "parent",
+            "tema": [
+                "diagnostico de practicas actuales",
+                "donaciones y patrocinios"
+            ],
+            "textotema": [
+                "realizar un diagnostico exhaustivo de las practicas actuales... identificar oportunidades para resaltar y fortalecer elementos identitarios...",
+                "la universidad llevara a cabo campanas de recaudacion de fondos para obtener donaciones y patrocinios..."
+            ]
+        },
+        {
+            "id": 20,
+            "name": "interdisciplinariedad",
+            "type": "child"
+        },
+        {
+            "id": 21,
+            "name": "competencias transversales",
+            "type": "child"
+        },
+        {
+            "id": 22,
+            "name": "aseguramiento de la calidad",
+            "type": "parent",
+            "tema": [
+                "evaluacion y retroalimentacion continua",
+                "impacto medible",
+                "cultura de calidad"
+            ],
+            "textotema": [
+                "sistema de evaluacion y retroalimentacion... medir el progreso de los estudiantes...",
+                "desarrollar indicadores especificos... evaluar el impacto social, economico y ambiental...",
+                "fomento de una cultura de calidad... aseguramiento de la calidad como una practica estandar y continua... alinear politicas y procesos internos con regulaciones y estandares de acreditacion."
+            ]
+        },
+        {
+            "id": 23,
+            "name": "internacionalizacion",
+            "type": "parent",
+            "tema": [
+                "internacionalizacion de la educacion",
+                "internacionalizacion"
+            ],
+            "textotema": [
+                "fomentar la internacionalizacion... intercambios internacionales, pasantias globales...",
+                "superar barreras linguisticas... incorporacion de nuevas actividades en curriculum... gestion de la cooperacion con instituciones extranjeras."
+            ]
+        },
+        {
+            "id": 24,
+            "name": "educacion",
+            "type": "child"
+        },
+        {
+            "id": 25,
+            "name": "intercambios",
+            "type": "child"
+        },
+        {
+            "id": 26,
+            "name": "evaluacion",
+            "type": "child"
+        },
+        {
+            "id": 27,
+            "name": "retroalimentacion",
+            "type": "child"
+        },
+        {
+            "id": 28,
+            "name": "investigacion aplicada",
+            "type": "child"
+        },
+        {
+            "id": 29,
+            "name": "practicas comunitarias",
+            "type": "child"
+        },
+        {
+            "id": 30,
+            "name": "asociatividad",
+            "type": "child"
+        },
+        {
+            "id": 31,
+            "name": "conocimiento",
+            "type": "child"
+        },
+        {
+            "id": 32,
+            "name": "pertinencia territorial",
+            "type": "child"
+        },
+        {
+            "id": 33,
+            "name": "sociedad civil",
+            "type": "child"
+        },
+        {
+            "id": 34,
+            "name": "transferencia tecnologica",
+            "type": "child"
+        },
+        {
+            "id": 35,
+            "name": "colaboracion",
+            "type": "child"
+        },
+        {
+            "id": 36,
+            "name": "transferencia tecnologica y creacion artistica",
+            "type": "child"
+        },
+        {
+            "id": 37,
+            "name": "impacto social",
+            "type": "child"
+        },
+        {
+            "id": 38,
+            "name": "emprendimientos",
+            "type": "child"
+        },
+        {
+            "id": 39,
+            "name": "impacto medible",
+            "type": "child"
+        },
+        {
+            "id": 40,
+            "name": "indicadores",
+            "type": "child"
+        },
+        {
+            "id": 41,
+            "name": "difusion",
+            "type": "child"
+        },
+        {
+            "id": 42,
+            "name": "comunicacion",
+            "type": "child"
+        },
+        {
+            "id": 43,
+            "name": "resultados",
+            "type": "child"
+        },
+        {
+            "id": 44,
+            "name": "bienestar estudiantil",
+            "type": "child"
+        },
+        {
+            "id": 45,
+            "name": "recursos humanos",
+            "type": "child"
+        },
+        {
+            "id": 46,
+            "name": "infraestructura",
+            "type": "child"
+        },
+        {
+            "id": 47,
+            "name": "sustentabilidad",
+            "type": "parent",
+            "tema": [
+                "transformacion de espacios universitarios",
+                "sostenibilidad y eficiencia energetica"
+            ],
+            "textotema": [
+                "transformacion de espacios fisicos... creacion de areas verdes y espacios de encuentro... construccion de una identidad universitaria vibrante y participativa.",
+                "la sostenibilidad ambiental sera un enfoque clave en el desarrollo y mejora de la infraestructura..."
+            ]
+        },
+        {
+            "id": 48,
+            "name": "salud mental",
+            "type": "child"
+        },
+        {
+            "id": 49,
+            "name": "atencion psiquiatrica",
+            "type": "child"
+        },
+        {
+            "id": 50,
+            "name": "convenios",
+            "type": "child"
+        },
+        {
+            "id": 51,
+            "name": "convivencia",
+            "type": "child"
+        },
+        {
+            "id": 52,
+            "name": "respeto",
+            "type": "child"
+        },
+        {
+            "id": 53,
+            "name": "empatia",
+            "type": "child"
+        },
+        {
+            "id": 54,
+            "name": "actividades deportivas",
+            "type": "child"
+        },
+        {
+            "id": 55,
+            "name": "vida activa",
+            "type": "child"
+        },
+        {
+            "id": 56,
+            "name": "bienestar fisico",
+            "type": "child"
+        },
+        {
+            "id": 57,
+            "name": "vinculos",
+            "type": "child"
+        },
+        {
+            "id": 58,
+            "name": "participacion activa",
+            "type": "child"
+        },
+        {
+            "id": 59,
+            "name": "co-construccion",
+            "type": "child"
+        },
+        {
+            "id": 60,
+            "name": "comunidad",
+            "type": "child"
+        },
+        {
+            "id": 61,
+            "name": "capacidades institucionales",
+            "type": "child"
+        },
+        {
+            "id": 62,
+            "name": "transferencia de conocimiento",
+            "type": "child"
+        },
+        {
+            "id": 63,
+            "name": "efectividad",
+            "type": "child"
+        },
+        {
+            "id": 64,
+            "name": "mejora continua",
+            "type": "child"
+        },
+        {
+            "id": 65,
+            "name": "cultura",
+            "type": "child"
+        },
+        {
+            "id": 66,
+            "name": "politica institucional",
+            "type": "child"
+        },
+        {
+            "id": 67,
+            "name": "barreras de idioma",
+            "type": "child"
+        },
+        {
+            "id": 68,
+            "name": "cooperacion",
+            "type": "child"
+        },
+        {
+            "id": 69,
+            "name": "perspectiva inclusiva",
+            "type": "child"
+        },
+        {
+            "id": 70,
+            "name": "intercultural",
+            "type": "child"
+        },
+        {
+            "id": 71,
+            "name": "identidad catolica",
+            "type": "child"
+        },
+        {
+            "id": 72,
+            "name": "igualdad de genero",
+            "type": "child"
+        },
+        {
+            "id": 73,
+            "name": "acogida",
+            "type": "child"
+        },
+        {
+            "id": 74,
+            "name": "diversidad cultural",
+            "type": "child"
+        },
+        {
+            "id": 75,
+            "name": "enfoque interseccional",
+            "type": "child"
+        },
+        {
+            "id": 76,
+            "name": "experiencias humanas",
+            "type": "child"
+        },
+        {
+            "id": 77,
+            "name": "justicia",
+            "type": "child"
+        },
+        {
+            "id": 78,
+            "name": "diagnostico",
+            "type": "child"
+        },
+        {
+            "id": 79,
+            "name": "practicas actuales",
+            "type": "child"
+        },
+        {
+            "id": 80,
+            "name": "identidad",
+            "type": "child"
+        },
+        {
+            "id": 81,
+            "name": "sello",
+            "type": "child"
+        },
+        {
+            "id": 82,
+            "name": "transformacion",
+            "type": "child"
+        },
+        {
+            "id": 83,
+            "name": "espacios universitarios",
+            "type": "child"
+        },
+        {
+            "id": 84,
+            "name": "infraestructura cultural",
+            "type": "child"
+        },
+        {
+            "id": 85,
+            "name": "creatividad",
+            "type": "child"
+        },
+        {
+            "id": 86,
+            "name": "expresion cultural",
+            "type": "child"
+        },
+        {
+            "id": 87,
+            "name": "-",
+            "type": "child"
+        },
+        {
+            "id": 88,
+            "name": "bienestar",
+            "type": "child"
+        },
+        {
+            "id": 89,
+            "name": "valoracion",
+            "type": "child"
+        },
+        {
+            "id": 90,
+            "name": "equidad",
+            "type": "child"
+        },
+        {
+            "id": 91,
+            "name": "fortalecimiento",
+            "type": "child"
+        },
+        {
+            "id": 92,
+            "name": "formacion",
+            "type": "child"
+        },
+        {
+            "id": 93,
+            "name": "humanismo cristiano",
+            "type": "child"
+        },
+        {
+            "id": 94,
+            "name": "servicio comunitario",
+            "type": "child"
+        },
+        {
+            "id": 95,
+            "name": "responsabilidad social",
+            "type": "child"
+        },
+        {
+            "id": 96,
+            "name": "cultura de calidad",
+            "type": "child"
+        },
+        {
+            "id": 97,
+            "name": "excelencia",
+            "type": "child"
+        },
+        {
+            "id": 98,
+            "name": "modernizacion",
+            "type": "child"
+        },
+        {
+            "id": 99,
+            "name": "eficiencia",
+            "type": "child"
+        },
+        {
+            "id": 100,
+            "name": "tecnologia",
+            "type": "child"
+        },
+        {
+            "id": 101,
+            "name": "optimizacion",
+            "type": "child"
+        },
+        {
+            "id": 102,
+            "name": "accesibilidad",
+            "type": "child"
+        },
+        {
+            "id": 103,
+            "name": "automatizacion",
+            "type": "child"
+        },
+        {
+            "id": 104,
+            "name": "desarrollo del personal",
+            "type": "child"
+        },
+        {
+            "id": 105,
+            "name": "desempeno",
+            "type": "child"
+        },
+        {
+            "id": 106,
+            "name": "capacitacion",
+            "type": "child"
+        },
+        {
+            "id": 107,
+            "name": "vinculacion",
+            "type": "child"
+        },
+        {
+            "id": 108,
+            "name": "infraestructura tecnologica",
+            "type": "child"
+        },
+        {
+            "id": 109,
+            "name": "integracion",
+            "type": "child"
+        },
+        {
+            "id": 110,
+            "name": "actualizacion",
+            "type": "child"
+        },
+        {
+            "id": 111,
+            "name": "nube",
+            "type": "child"
+        },
+        {
+            "id": 112,
+            "name": "inteligencia artificial",
+            "type": "child"
+        },
+        {
+            "id": 113,
+            "name": "procesos tecnologicos",
+            "type": "child"
+        },
+        {
+            "id": 114,
+            "name": "gobernanza de datos",
+            "type": "child"
+        },
+        {
+            "id": 115,
+            "name": "calidad de la informacion",
+            "type": "child"
+        },
+        {
+            "id": 116,
+            "name": "control de calidad",
+            "type": "child"
+        },
+        {
+            "id": 117,
+            "name": "estrategia tecnologica",
+            "type": "child"
+        },
+        {
+            "id": 118,
+            "name": "posicionamiento",
+            "type": "child"
+        },
+        {
+            "id": 119,
+            "name": "alineacion estrategica",
+            "type": "child"
+        },
+        {
+            "id": 120,
+            "name": "cultura tecnologica",
+            "type": "child"
+        },
+        {
+            "id": 121,
+            "name": "desarrollo de habilidades",
+            "type": "child"
+        },
+        {
+            "id": 122,
+            "name": "innovacion",
+            "type": "child"
+        },
+        {
+            "id": 123,
+            "name": "cursos",
+            "type": "child"
+        },
+        {
+            "id": 124,
+            "name": "diplomados",
+            "type": "child"
+        },
+        {
+            "id": 125,
+            "name": "talleres",
+            "type": "child"
+        },
+        {
+            "id": 126,
+            "name": "industria",
+            "type": "child"
+        },
+        {
+            "id": 127,
+            "name": "spin-offs",
+            "type": "child"
+        },
+        {
+            "id": 128,
+            "name": "venta de licencias tecnologicas",
+            "type": "child"
+        },
+        {
+            "id": 129,
+            "name": "aprendizaje-servicio (a+s)",
+            "type": "child"
+        },
+        {
+            "id": 130,
+            "name": "proyectos comunitarios",
+            "type": "child"
+        },
+        {
+            "id": 131,
+            "name": "consultoria social",
+            "type": "child"
+        },
+        {
+            "id": 132,
+            "name": "subvenciones",
+            "type": "child"
+        },
+        {
+            "id": 133,
+            "name": "fondos",
+            "type": "child"
+        },
+        {
+            "id": 134,
+            "name": "colaboraciones de investigacion",
+            "type": "child"
+        },
+        {
+            "id": 135,
+            "name": "entidades externas",
+            "type": "child"
+        },
+        {
+            "id": 136,
+            "name": "eventos",
+            "type": "child"
+        },
+        {
+            "id": 137,
+            "name": "conferencias",
+            "type": "child"
+        },
+        {
+            "id": 138,
+            "name": "participantes externos",
+            "type": "child"
+        },
+        {
+            "id": 139,
+            "name": "alquiler de espacios",
+            "type": "child"
+        },
+        {
+            "id": 140,
+            "name": "donaciones",
+            "type": "child"
+        },
+        {
+            "id": 141,
+            "name": "patrocinios",
+            "type": "child"
+        },
+        {
+            "id": 142,
+            "name": "recaudacion de fondos",
+            "type": "child"
+        },
+        {
+            "id": 143,
+            "name": "patrocinadores",
+            "type": "child"
+        },
+        {
+            "id": 144,
+            "name": "donantes potenciales",
+            "type": "child"
+        },
+        {
+            "id": 145,
+            "name": "tecnologias basadas en la nube",
+            "type": "child"
+        },
+        {
+            "id": 146,
+            "name": "espacios fisicos",
+            "type": "child"
+        },
+        {
+            "id": 147,
+            "name": "equipamiento",
+            "type": "child"
+        },
+        {
+            "id": 148,
+            "name": "instalaciones",
+            "type": "child"
+        },
+        {
+            "id": 149,
+            "name": "conectividad",
+            "type": "child"
+        },
+        {
+            "id": 150,
+            "name": "acceso remoto",
+            "type": "child"
+        },
+        {
+            "id": 151,
+            "name": "educacion a distancia",
+            "type": "child"
+        },
+        {
+            "id": 152,
+            "name": "colaboracion a distancia",
+            "type": "child"
+        },
+        {
+            "id": 153,
+            "name": "formacion de pregrado y postgrado",
+            "type": "child"
+        },
+        {
+            "id": 154,
+            "name": "sistemas de informacion",
+            "type": "child"
+        },
+        {
+            "id": 155,
+            "name": "seguridad de la informacion",
+            "type": "child"
+        },
+        {
+            "id": 156,
+            "name": "seguridad",
+            "type": "child"
+        },
+        {
+            "id": 157,
+            "name": "campus",
+            "type": "child"
+        },
+        {
+            "id": 158,
+            "name": "protocolos",
+            "type": "child"
+        },
+        {
+            "id": 159,
+            "name": "autoridades locales",
+            "type": "child"
+        },
+        {
+            "id": 160,
+            "name": "cultura de seguridad",
+            "type": "child"
+        },
+        {
+            "id": 161,
+            "name": "senalizacion",
+            "type": "child"
+        },
+        {
+            "id": 162,
+            "name": "orientacion",
+            "type": "child"
+        },
+        {
+            "id": 163,
+            "name": "senalizacion bilingue",
+            "type": "child"
+        },
+        {
+            "id": 164,
+            "name": "personas con discapacidad",
+            "type": "child"
+        },
+        {
+            "id": 165,
+            "name": "sostenibilidad ambiental",
+            "type": "child"
+        },
+        {
+            "id": 166,
+            "name": "eficiencia energetica",
+            "type": "child"
+        },
+        {
+            "id": 167,
+            "name": "reduccion del impacto ambiental",
+            "type": "child"
+        },
+        {
+            "id": 168,
+            "name": "adaptabilidad",
+            "type": "child"
+        },
+        {
+            "id": 169,
+            "name": "flexibilidad",
+            "type": "child"
+        },
+        {
+            "id": 170,
+            "name": "actualizacion continua",
+            "type": "child"
+        },
+        {
+            "id": 171,
+            "name": "tendencias educativas y tecnologicas",
+            "type": "child"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 5,
+            "target": 7
+        },
+        {
+            "source": 5,
+            "target": 8
+        },
+        {
+            "source": 9,
+            "target": 6
+        },
+        {
+            "source": 9,
+            "target": 7
+        },
+        {
+            "source": 9,
+            "target": 8
+        },
+        {
+            "source": 10,
+            "target": 11
+        },
+        {
+            "source": 10,
+            "target": 12
+        },
+        {
+            "source": 10,
+            "target": 13
+        },
+        {
+            "source": 14,
+            "target": 11
+        },
+        {
+            "source": 14,
+            "target": 12
+        },
+        {
+            "source": 14,
+            "target": 13
+        },
+        {
+            "source": 15,
+            "target": 16
+        },
+        {
+            "source": 15,
+            "target": 17
+        },
+        {
+            "source": 15,
+            "target": 18
+        },
+        {
+            "source": 19,
+            "target": 16
+        },
+        {
+            "source": 19,
+            "target": 17
+        },
+        {
+            "source": 19,
+            "target": 18
+        },
+        {
+            "source": 1,
+            "target": 20
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 4,
+            "target": 20
+        },
+        {
+            "source": 4,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 21
+        },
+        {
+            "source": 22,
+            "target": 21
+        },
+        {
+            "source": 23,
+            "target": 23
+        },
+        {
+            "source": 23,
+            "target": 24
+        },
+        {
+            "source": 23,
+            "target": 25
+        },
+        {
+            "source": 22,
+            "target": 23
+        },
+        {
+            "source": 22,
+            "target": 24
+        },
+        {
+            "source": 22,
+            "target": 25
+        },
+        {
+            "source": 22,
+            "target": 26
+        },
+        {
+            "source": 22,
+            "target": 27
+        },
+        {
+            "source": 9,
+            "target": 26
+        },
+        {
+            "source": 9,
+            "target": 27
+        },
+        {
+            "source": 5,
+            "target": 28
+        },
+        {
+            "source": 5,
+            "target": 29
+        },
+        {
+            "source": 15,
+            "target": 28
+        },
+        {
+            "source": 15,
+            "target": 29
+        },
+        {
+            "source": 5,
+            "target": 20
+        },
+        {
+            "source": 5,
+            "target": 30
+        },
+        {
+            "source": 5,
+            "target": 26
+        },
+        {
+            "source": 19,
+            "target": 20
+        },
+        {
+            "source": 19,
+            "target": 30
+        },
+        {
+            "source": 19,
+            "target": 26
+        },
+        {
+            "source": 22,
+            "target": 20
+        },
+        {
+            "source": 22,
+            "target": 30
+        },
+        {
+            "source": 22,
+            "target": 26
+        },
+        {
+            "source": 5,
+            "target": 31
+        },
+        {
+            "source": 5,
+            "target": 32
+        },
+        {
+            "source": 15,
+            "target": 31
+        },
+        {
+            "source": 15,
+            "target": 32
+        },
+        {
+            "source": 15,
+            "target": 33
+        },
+        {
+            "source": 15,
+            "target": 34
+        },
+        {
+            "source": 15,
+            "target": 35
+        },
+        {
+            "source": 23,
+            "target": 33
+        },
+        {
+            "source": 23,
+            "target": 34
+        },
+        {
+            "source": 23,
+            "target": 35
+        },
+        {
+            "source": 6,
+            "target": 33
+        },
+        {
+            "source": 6,
+            "target": 34
+        },
+        {
+            "source": 6,
+            "target": 35
+        },
+        {
+            "source": 36,
+            "target": 33
+        },
+        {
+            "source": 36,
+            "target": 34
+        },
+        {
+            "source": 36,
+            "target": 35
+        },
+        {
+            "source": 5,
+            "target": 34
+        },
+        {
+            "source": 5,
+            "target": 37
+        },
+        {
+            "source": 5,
+            "target": 38
+        },
+        {
+            "source": 15,
+            "target": 34
+        },
+        {
+            "source": 15,
+            "target": 37
+        },
+        {
+            "source": 15,
+            "target": 38
+        },
+        {
+            "source": 19,
+            "target": 34
+        },
+        {
+            "source": 19,
+            "target": 37
+        },
+        {
+            "source": 19,
+            "target": 38
+        },
+        {
+            "source": 22,
+            "target": 39
+        },
+        {
+            "source": 22,
+            "target": 40
+        },
+        {
+            "source": 22,
+            "target": 26
+        },
+        {
+            "source": 5,
+            "target": 39
+        },
+        {
+            "source": 5,
+            "target": 40
+        },
+        {
+            "source": 5,
+            "target": 26
+        },
+        {
+            "source": 14,
+            "target": 41
+        },
+        {
+            "source": 14,
+            "target": 42
+        },
+        {
+            "source": 14,
+            "target": 43
+        },
+        {
+            "source": 4,
+            "target": 41
+        },
+        {
+            "source": 4,
+            "target": 42
+        },
+        {
+            "source": 4,
+            "target": 43
+        },
+        {
+            "source": 14,
+            "target": 44
+        },
+        {
+            "source": 14,
+            "target": 45
+        },
+        {
+            "source": 14,
+            "target": 46
+        },
+        {
+            "source": 10,
+            "target": 44
+        },
+        {
+            "source": 10,
+            "target": 45
+        },
+        {
+            "source": 10,
+            "target": 46
+        },
+        {
+            "source": 47,
+            "target": 44
+        },
+        {
+            "source": 47,
+            "target": 45
+        },
+        {
+            "source": 47,
+            "target": 46
+        },
+        {
+            "source": 14,
+            "target": 48
+        },
+        {
+            "source": 14,
+            "target": 49
+        },
+        {
+            "source": 14,
+            "target": 50
+        },
+        {
+            "source": 10,
+            "target": 48
+        },
+        {
+            "source": 10,
+            "target": 49
+        },
+        {
+            "source": 10,
+            "target": 50
+        },
+        {
+            "source": 14,
+            "target": 51
+        },
+        {
+            "source": 14,
+            "target": 52
+        },
+        {
+            "source": 14,
+            "target": 53
+        },
+        {
+            "source": 14,
+            "target": 35
+        },
+        {
+            "source": 10,
+            "target": 51
+        },
+        {
+            "source": 10,
+            "target": 52
+        },
+        {
+            "source": 10,
+            "target": 53
+        },
+        {
+            "source": 10,
+            "target": 35
+        },
+        {
+            "source": 14,
+            "target": 54
+        },
+        {
+            "source": 14,
+            "target": 55
+        },
+        {
+            "source": 14,
+            "target": 56
+        },
+        {
+            "source": 47,
+            "target": 54
+        },
+        {
+            "source": 47,
+            "target": 55
+        },
+        {
+            "source": 47,
+            "target": 56
+        },
+        {
+            "source": 14,
+            "target": 57
+        },
+        {
+            "source": 14,
+            "target": 42
+        },
+        {
+            "source": 14,
+            "target": 35
+        },
+        {
+            "source": 14,
+            "target": 58
+        },
+        {
+            "source": 19,
+            "target": 57
+        },
+        {
+            "source": 19,
+            "target": 42
+        },
+        {
+            "source": 19,
+            "target": 35
+        },
+        {
+            "source": 19,
+            "target": 58
+        },
+        {
+            "source": 15,
+            "target": 59
+        },
+        {
+            "source": 15,
+            "target": 60
+        },
+        {
+            "source": 15,
+            "target": 12
+        },
+        {
+            "source": 14,
+            "target": 59
+        },
+        {
+            "source": 14,
+            "target": 60
+        },
+        {
+            "source": 14,
+            "target": 12
+        },
+        {
+            "source": 6,
+            "target": 59
+        },
+        {
+            "source": 6,
+            "target": 60
+        },
+        {
+            "source": 6,
+            "target": 12
+        },
+        {
+            "source": 36,
+            "target": 59
+        },
+        {
+            "source": 36,
+            "target": 60
+        },
+        {
+            "source": 36,
+            "target": 12
+        },
+        {
+            "source": 15,
+            "target": 61
+        },
+        {
+            "source": 15,
+            "target": 17
+        },
+        {
+            "source": 19,
+            "target": 61
+        },
+        {
+            "source": 19,
+            "target": 17
+        },
+        {
+            "source": 47,
+            "target": 61
+        },
+        {
+            "source": 47,
+            "target": 17
+        },
+        {
+            "source": 5,
+            "target": 62
+        },
+        {
+            "source": 5,
+            "target": 63
+        },
+        {
+            "source": 15,
+            "target": 62
+        },
+        {
+            "source": 15,
+            "target": 63
+        },
+        {
+            "source": 19,
+            "target": 62
+        },
+        {
+            "source": 19,
+            "target": 63
+        },
+        {
+            "source": 15,
+            "target": 26
+        },
+        {
+            "source": 15,
+            "target": 64
+        },
+        {
+            "source": 22,
+            "target": 26
+        },
+        {
+            "source": 22,
+            "target": 64
+        },
+        {
+            "source": 15,
+            "target": 65
+        },
+        {
+            "source": 15,
+            "target": 66
+        },
+        {
+            "source": 19,
+            "target": 65
+        },
+        {
+            "source": 19,
+            "target": 66
+        },
+        {
+            "source": 23,
+            "target": 23
+        },
+        {
+            "source": 23,
+            "target": 67
+        },
+        {
+            "source": 23,
+            "target": 68
+        },
+        {
+            "source": 15,
+            "target": 23
+        },
+        {
+            "source": 15,
+            "target": 67
+        },
+        {
+            "source": 15,
+            "target": 68
+        },
+        {
+            "source": 19,
+            "target": 23
+        },
+        {
+            "source": 19,
+            "target": 67
+        },
+        {
+            "source": 19,
+            "target": 68
+        },
+        {
+            "source": 10,
+            "target": 69
+        },
+        {
+            "source": 10,
+            "target": 11
+        },
+        {
+            "source": 10,
+            "target": 70
+        },
+        {
+            "source": 10,
+            "target": 71
+        },
+        {
+            "source": 14,
+            "target": 69
+        },
+        {
+            "source": 14,
+            "target": 11
+        },
+        {
+            "source": 14,
+            "target": 70
+        },
+        {
+            "source": 14,
+            "target": 71
+        },
+        {
+            "source": 10,
+            "target": 72
+        },
+        {
+            "source": 10,
+            "target": 13
+        },
+        {
+            "source": 10,
+            "target": 12
+        },
+        {
+            "source": 14,
+            "target": 72
+        },
+        {
+            "source": 14,
+            "target": 13
+        },
+        {
+            "source": 14,
+            "target": 12
+        },
+        {
+            "source": 10,
+            "target": 52
+        },
+        {
+            "source": 10,
+            "target": 73
+        },
+        {
+            "source": 10,
+            "target": 74
+        },
+        {
+            "source": 14,
+            "target": 52
+        },
+        {
+            "source": 14,
+            "target": 73
+        },
+        {
+            "source": 14,
+            "target": 74
+        },
+        {
+            "source": 10,
+            "target": 75
+        },
+        {
+            "source": 10,
+            "target": 76
+        },
+        {
+            "source": 14,
+            "target": 75
+        },
+        {
+            "source": 14,
+            "target": 76
+        },
+        {
+            "source": 10,
+            "target": 71
+        },
+        {
+            "source": 10,
+            "target": 77
+        },
+        {
+            "source": 10,
+            "target": 13
+        },
+        {
+            "source": 14,
+            "target": 71
+        },
+        {
+            "source": 14,
+            "target": 77
+        },
+        {
+            "source": 14,
+            "target": 13
+        },
+        {
+            "source": 19,
+            "target": 78
+        },
+        {
+            "source": 19,
+            "target": 79
+        },
+        {
+            "source": 19,
+            "target": 80
+        },
+        {
+            "source": 19,
+            "target": 81
+        },
+        {
+            "source": 22,
+            "target": 78
+        },
+        {
+            "source": 22,
+            "target": 79
+        },
+        {
+            "source": 22,
+            "target": 80
+        },
+        {
+            "source": 22,
+            "target": 81
+        },
+        {
+            "source": 47,
+            "target": 82
+        },
+        {
+            "source": 47,
+            "target": 83
+        },
+        {
+            "source": 47,
+            "target": 80
+        },
+        {
+            "source": 47,
+            "target": 81
+        },
+        {
+            "source": 14,
+            "target": 82
+        },
+        {
+            "source": 14,
+            "target": 83
+        },
+        {
+            "source": 14,
+            "target": 80
+        },
+        {
+            "source": 14,
+            "target": 81
+        },
+        {
+            "source": 14,
+            "target": 84
+        },
+        {
+            "source": 14,
+            "target": 85
+        },
+        {
+            "source": 14,
+            "target": 86
+        },
+        {
+            "source": 87,
+            "target": 84
+        },
+        {
+            "source": 87,
+            "target": 85
+        },
+        {
+            "source": 87,
+            "target": 86
+        },
+        {
+            "source": 14,
+            "target": 88
+        },
+        {
+            "source": 14,
+            "target": 89
+        },
+        {
+            "source": 14,
+            "target": 48
+        },
+        {
+            "source": 14,
+            "target": 12
+        },
+        {
+            "source": 14,
+            "target": 13
+        },
+        {
+            "source": 14,
+            "target": 90
+        },
+        {
+            "source": 10,
+            "target": 88
+        },
+        {
+            "source": 10,
+            "target": 89
+        },
+        {
+            "source": 10,
+            "target": 48
+        },
+        {
+            "source": 10,
+            "target": 12
+        },
+        {
+            "source": 10,
+            "target": 13
+        },
+        {
+            "source": 10,
+            "target": 90
+        },
+        {
+            "source": 1,
+            "target": 91
+        },
+        {
+            "source": 1,
+            "target": 81
+        },
+        {
+            "source": 1,
+            "target": 92
+        },
+        {
+            "source": 1,
+            "target": 93
+        },
+        {
+            "source": 1,
+            "target": 94
+        },
+        {
+            "source": 1,
+            "target": 95
+        },
+        {
+            "source": 14,
+            "target": 91
+        },
+        {
+            "source": 14,
+            "target": 81
+        },
+        {
+            "source": 14,
+            "target": 92
+        },
+        {
+            "source": 14,
+            "target": 93
+        },
+        {
+            "source": 14,
+            "target": 94
+        },
+        {
+            "source": 14,
+            "target": 95
+        },
+        {
+            "source": 22,
+            "target": 96
+        },
+        {
+            "source": 22,
+            "target": 97
+        },
+        {
+            "source": 22,
+            "target": 64
+        },
+        {
+            "source": 22,
+            "target": 22
+        },
+        {
+            "source": 19,
+            "target": 96
+        },
+        {
+            "source": 19,
+            "target": 97
+        },
+        {
+            "source": 19,
+            "target": 64
+        },
+        {
+            "source": 19,
+            "target": 22
+        },
+        {
+            "source": 4,
+            "target": 98
+        },
+        {
+            "source": 4,
+            "target": 99
+        },
+        {
+            "source": 4,
+            "target": 100
+        },
+        {
+            "source": 4,
+            "target": 101
+        },
+        {
+            "source": 4,
+            "target": 102
+        },
+        {
+            "source": 19,
+            "target": 98
+        },
+        {
+            "source": 19,
+            "target": 99
+        },
+        {
+            "source": 19,
+            "target": 100
+        },
+        {
+            "source": 19,
+            "target": 101
+        },
+        {
+            "source": 19,
+            "target": 102
+        },
+        {
+            "source": 4,
+            "target": 103
+        },
+        {
+            "source": 4,
+            "target": 102
+        },
+        {
+            "source": 4,
+            "target": 101
+        },
+        {
+            "source": 4,
+            "target": 100
+        },
+        {
+            "source": 19,
+            "target": 103
+        },
+        {
+            "source": 19,
+            "target": 102
+        },
+        {
+            "source": 19,
+            "target": 101
+        },
+        {
+            "source": 19,
+            "target": 100
+        },
+        {
+            "source": 14,
+            "target": 26
+        },
+        {
+            "source": 14,
+            "target": 104
+        },
+        {
+            "source": 14,
+            "target": 105
+        },
+        {
+            "source": 14,
+            "target": 106
+        },
+        {
+            "source": 19,
+            "target": 26
+        },
+        {
+            "source": 19,
+            "target": 104
+        },
+        {
+            "source": 19,
+            "target": 105
+        },
+        {
+            "source": 19,
+            "target": 106
+        },
+        {
+            "source": 15,
+            "target": 68
+        },
+        {
+            "source": 15,
+            "target": 107
+        },
+        {
+            "source": 15,
+            "target": 30
+        },
+        {
+            "source": 15,
+            "target": 62
+        },
+        {
+            "source": 23,
+            "target": 68
+        },
+        {
+            "source": 23,
+            "target": 107
+        },
+        {
+            "source": 23,
+            "target": 30
+        },
+        {
+            "source": 23,
+            "target": 62
+        },
+        {
+            "source": 4,
+            "target": 108
+        },
+        {
+            "source": 4,
+            "target": 109
+        },
+        {
+            "source": 4,
+            "target": 110
+        },
+        {
+            "source": 4,
+            "target": 111
+        },
+        {
+            "source": 4,
+            "target": 112
+        },
+        {
+            "source": 19,
+            "target": 108
+        },
+        {
+            "source": 19,
+            "target": 109
+        },
+        {
+            "source": 19,
+            "target": 110
+        },
+        {
+            "source": 19,
+            "target": 111
+        },
+        {
+            "source": 19,
+            "target": 112
+        },
+        {
+            "source": 4,
+            "target": 99
+        },
+        {
+            "source": 4,
+            "target": 113
+        },
+        {
+            "source": 4,
+            "target": 42
+        },
+        {
+            "source": 4,
+            "target": 103
+        },
+        {
+            "source": 19,
+            "target": 99
+        },
+        {
+            "source": 19,
+            "target": 113
+        },
+        {
+            "source": 19,
+            "target": 42
+        },
+        {
+            "source": 19,
+            "target": 103
+        },
+        {
+            "source": 4,
+            "target": 114
+        },
+        {
+            "source": 4,
+            "target": 115
+        },
+        {
+            "source": 4,
+            "target": 116
+        },
+        {
+            "source": 19,
+            "target": 114
+        },
+        {
+            "source": 19,
+            "target": 115
+        },
+        {
+            "source": 19,
+            "target": 116
+        },
+        {
+            "source": 4,
+            "target": 117
+        },
+        {
+            "source": 4,
+            "target": 118
+        },
+        {
+            "source": 4,
+            "target": 119
+        },
+        {
+            "source": 19,
+            "target": 117
+        },
+        {
+            "source": 19,
+            "target": 118
+        },
+        {
+            "source": 19,
+            "target": 119
+        },
+        {
+            "source": 4,
+            "target": 120
+        },
+        {
+            "source": 4,
+            "target": 106
+        },
+        {
+            "source": 4,
+            "target": 121
+        },
+        {
+            "source": 4,
+            "target": 122
+        },
+        {
+            "source": 14,
+            "target": 120
+        },
+        {
+            "source": 14,
+            "target": 106
+        },
+        {
+            "source": 14,
+            "target": 121
+        },
+        {
+            "source": 14,
+            "target": 122
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 123
+        },
+        {
+            "source": 1,
+            "target": 124
+        },
+        {
+            "source": 1,
+            "target": 125
+        },
+        {
+            "source": 19,
+            "target": 3
+        },
+        {
+            "source": 19,
+            "target": 123
+        },
+        {
+            "source": 19,
+            "target": 124
+        },
+        {
+            "source": 19,
+            "target": 125
+        },
+        {
+            "source": 5,
+            "target": 126
+        },
+        {
+            "source": 5,
+            "target": 127
+        },
+        {
+            "source": 5,
+            "target": 128
+        },
+        {
+            "source": 5,
+            "target": 129
+        },
+        {
+            "source": 5,
+            "target": 130
+        },
+        {
+            "source": 5,
+            "target": 131
+        },
+        {
+            "source": 15,
+            "target": 126
+        },
+        {
+            "source": 15,
+            "target": 127
+        },
+        {
+            "source": 15,
+            "target": 128
+        },
+        {
+            "source": 15,
+            "target": 129
+        },
+        {
+            "source": 15,
+            "target": 130
+        },
+        {
+            "source": 15,
+            "target": 131
+        },
+        {
+            "source": 19,
+            "target": 126
+        },
+        {
+            "source": 19,
+            "target": 127
+        },
+        {
+            "source": 19,
+            "target": 128
+        },
+        {
+            "source": 19,
+            "target": 129
+        },
+        {
+            "source": 19,
+            "target": 130
+        },
+        {
+            "source": 19,
+            "target": 131
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 5,
+            "target": 7
+        },
+        {
+            "source": 5,
+            "target": 132
+        },
+        {
+            "source": 5,
+            "target": 133
+        },
+        {
+            "source": 5,
+            "target": 134
+        },
+        {
+            "source": 5,
+            "target": 135
+        },
+        {
+            "source": 19,
+            "target": 6
+        },
+        {
+            "source": 19,
+            "target": 7
+        },
+        {
+            "source": 19,
+            "target": 132
+        },
+        {
+            "source": 19,
+            "target": 133
+        },
+        {
+            "source": 19,
+            "target": 134
+        },
+        {
+            "source": 19,
+            "target": 135
+        },
+        {
+            "source": 15,
+            "target": 136
+        },
+        {
+            "source": 15,
+            "target": 137
+        },
+        {
+            "source": 15,
+            "target": 138
+        },
+        {
+            "source": 15,
+            "target": 139
+        },
+        {
+            "source": 15,
+            "target": 140
+        },
+        {
+            "source": 15,
+            "target": 141
+        },
+        {
+            "source": 19,
+            "target": 136
+        },
+        {
+            "source": 19,
+            "target": 137
+        },
+        {
+            "source": 19,
+            "target": 138
+        },
+        {
+            "source": 19,
+            "target": 139
+        },
+        {
+            "source": 19,
+            "target": 140
+        },
+        {
+            "source": 19,
+            "target": 141
+        },
+        {
+            "source": 19,
+            "target": 140
+        },
+        {
+            "source": 19,
+            "target": 141
+        },
+        {
+            "source": 19,
+            "target": 142
+        },
+        {
+            "source": 19,
+            "target": 143
+        },
+        {
+            "source": 19,
+            "target": 144
+        },
+        {
+            "source": 15,
+            "target": 140
+        },
+        {
+            "source": 15,
+            "target": 141
+        },
+        {
+            "source": 15,
+            "target": 142
+        },
+        {
+            "source": 15,
+            "target": 143
+        },
+        {
+            "source": 15,
+            "target": 144
+        },
+        {
+            "source": 4,
+            "target": 108
+        },
+        {
+            "source": 4,
+            "target": 145
+        },
+        {
+            "source": 4,
+            "target": 112
+        },
+        {
+            "source": 19,
+            "target": 108
+        },
+        {
+            "source": 19,
+            "target": 145
+        },
+        {
+            "source": 19,
+            "target": 112
+        },
+        {
+            "source": 47,
+            "target": 108
+        },
+        {
+            "source": 47,
+            "target": 145
+        },
+        {
+            "source": 47,
+            "target": 112
+        },
+        {
+            "source": 1,
+            "target": 146
+        },
+        {
+            "source": 1,
+            "target": 147
+        },
+        {
+            "source": 1,
+            "target": 148
+        },
+        {
+            "source": 1,
+            "target": 122
+        },
+        {
+            "source": 6,
+            "target": 146
+        },
+        {
+            "source": 6,
+            "target": 147
+        },
+        {
+            "source": 6,
+            "target": 148
+        },
+        {
+            "source": 6,
+            "target": 122
+        },
+        {
+            "source": 36,
+            "target": 146
+        },
+        {
+            "source": 36,
+            "target": 147
+        },
+        {
+            "source": 36,
+            "target": 148
+        },
+        {
+            "source": 36,
+            "target": 122
+        },
+        {
+            "source": 14,
+            "target": 146
+        },
+        {
+            "source": 14,
+            "target": 147
+        },
+        {
+            "source": 14,
+            "target": 148
+        },
+        {
+            "source": 14,
+            "target": 122
+        },
+        {
+            "source": 4,
+            "target": 149
+        },
+        {
+            "source": 4,
+            "target": 150
+        },
+        {
+            "source": 4,
+            "target": 151
+        },
+        {
+            "source": 4,
+            "target": 152
+        },
+        {
+            "source": 14,
+            "target": 149
+        },
+        {
+            "source": 14,
+            "target": 150
+        },
+        {
+            "source": 14,
+            "target": 151
+        },
+        {
+            "source": 14,
+            "target": 152
+        },
+        {
+            "source": 9,
+            "target": 149
+        },
+        {
+            "source": 9,
+            "target": 150
+        },
+        {
+            "source": 9,
+            "target": 151
+        },
+        {
+            "source": 9,
+            "target": 152
+        },
+        {
+            "source": 153,
+            "target": 149
+        },
+        {
+            "source": 153,
+            "target": 150
+        },
+        {
+            "source": 153,
+            "target": 151
+        },
+        {
+            "source": 153,
+            "target": 152
+        },
+        {
+            "source": 4,
+            "target": 154
+        },
+        {
+            "source": 4,
+            "target": 114
+        },
+        {
+            "source": 4,
+            "target": 155
+        },
+        {
+            "source": 22,
+            "target": 154
+        },
+        {
+            "source": 22,
+            "target": 114
+        },
+        {
+            "source": 22,
+            "target": 155
+        },
+        {
+            "source": 19,
+            "target": 154
+        },
+        {
+            "source": 19,
+            "target": 114
+        },
+        {
+            "source": 19,
+            "target": 155
+        },
+        {
+            "source": 14,
+            "target": 156
+        },
+        {
+            "source": 14,
+            "target": 157
+        },
+        {
+            "source": 14,
+            "target": 158
+        },
+        {
+            "source": 14,
+            "target": 159
+        },
+        {
+            "source": 14,
+            "target": 160
+        },
+        {
+            "source": 19,
+            "target": 156
+        },
+        {
+            "source": 19,
+            "target": 157
+        },
+        {
+            "source": 19,
+            "target": 158
+        },
+        {
+            "source": 19,
+            "target": 159
+        },
+        {
+            "source": 19,
+            "target": 160
+        },
+        {
+            "source": 14,
+            "target": 161
+        },
+        {
+            "source": 14,
+            "target": 162
+        },
+        {
+            "source": 14,
+            "target": 102
+        },
+        {
+            "source": 14,
+            "target": 163
+        },
+        {
+            "source": 14,
+            "target": 164
+        },
+        {
+            "source": 10,
+            "target": 161
+        },
+        {
+            "source": 10,
+            "target": 162
+        },
+        {
+            "source": 10,
+            "target": 102
+        },
+        {
+            "source": 10,
+            "target": 163
+        },
+        {
+            "source": 10,
+            "target": 164
+        },
+        {
+            "source": 23,
+            "target": 161
+        },
+        {
+            "source": 23,
+            "target": 162
+        },
+        {
+            "source": 23,
+            "target": 102
+        },
+        {
+            "source": 23,
+            "target": 163
+        },
+        {
+            "source": 23,
+            "target": 164
+        },
+        {
+            "source": 47,
+            "target": 165
+        },
+        {
+            "source": 47,
+            "target": 166
+        },
+        {
+            "source": 47,
+            "target": 167
+        },
+        {
+            "source": 4,
+            "target": 165
+        },
+        {
+            "source": 4,
+            "target": 166
+        },
+        {
+            "source": 4,
+            "target": 167
+        },
+        {
+            "source": 19,
+            "target": 165
+        },
+        {
+            "source": 19,
+            "target": 166
+        },
+        {
+            "source": 19,
+            "target": 167
+        },
+        {
+            "source": 4,
+            "target": 168
+        },
+        {
+            "source": 4,
+            "target": 169
+        },
+        {
+            "source": 4,
+            "target": 170
+        },
+        {
+            "source": 4,
+            "target": 171
+        },
+        {
+            "source": 9,
+            "target": 168
+        },
+        {
+            "source": 9,
+            "target": 169
+        },
+        {
+            "source": 9,
+            "target": 170
+        },
+        {
+            "source": 9,
+            "target": 171
+        },
+        {
+            "source": 153,
+            "target": 168
+        },
+        {
+            "source": 153,
+            "target": 169
+        },
+        {
+            "source": 153,
+            "target": 170
+        },
+        {
+            "source": 153,
+            "target": 171
+        },
+        {
+            "source": 47,
+            "target": 168
+        },
+        {
+            "source": 47,
+            "target": 169
+        },
+        {
+            "source": 47,
+            "target": 170
+        },
+        {
+            "source": 47,
+            "target": 171
+        }
+    ]
+}

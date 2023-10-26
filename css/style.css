@@ -1,0 +1,97 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+svg {
+  margin-left: -100px;
+  margin-top: -70px;
+}
+
+header {
+  display: flex;
+  justify-content: center;  
+  align-items: center;      
+  height: 100px;            
+}
+
+h1 {
+  margin: 0;                
+  text-align: center;      
+}
+
+.links line {
+  stroke: #aaa; /* Color por defecto de los enlaces */
+}
+
+.nodes circle {
+  stroke: #fff; /* Borde de los nodos */
+  stroke-width: 1px;
+  cursor: pointer; /* Cambia el cursor al pasar sobre un nodo */
+  transition: all 0.15s ease;
+}
+
+.nodes circle:hover {
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+
+.node-selected {
+  cursor: not-allowed;
+}
+
+.texts text {
+  font-size: 10px;
+  pointer-events: none; /* Evita que el texto interfiera con los eventos del ratón */
+}
+
+/* Estilos para el tooltip */
+
+.tooltip {
+  position: fixed;      
+  text-align: left;
+  width: 400px;         
+  height: auto;         
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+  right: 20px;          
+  top: 50%;             
+  transform: translateY(-50%);
+  font-size: 10px;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 1000;
+}
+
+.tooltip strong {
+  font-size: 12px; 
+  text-transform: capitalize;
+}
+
+.tooltip ul {
+  padding-left: 20px;
+  list-style-type: disc;
+  font-size: 10px;
+}
+
+.tooltip-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.tooltip-section {
+    text-align: left;
+}
+
+.tooltip-subtitle {
+    font-weight: bold;
+    display: block;
+}
+
+.tooltip-list {
+    padding-left: 20px;
+    list-style-type: disc;
+}
